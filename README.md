@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityapwr
-- 👀 I’m interested in AI
+- 👀 I’m interested in Application of AI in Systems Engineering
 - 🌱 I’m currently learning Artifical Intelligence and Data Science
-- 💞️ I’m looking to collaborate on Responsible AI
+- 💞️ I’m looking to collaborate on AIOps
 - 📫 How to reach me pawar.aditya29@gmail.com
 
 <!---
